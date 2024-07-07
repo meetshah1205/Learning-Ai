@@ -1,4 +1,4 @@
-This repository contains all ther code I write with notes I will be writing while learning Artificial Intelligence.
+# This repository contains all ther code I write with notes I will be writing while learning Artificial Intelligence.
 
 # Sources
 ## Python
