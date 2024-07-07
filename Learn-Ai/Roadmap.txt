@@ -1,8 +1,0 @@
-Learn Python.
-
-Learn NumPy, Matplotlib and Pandas from their website. Learn to use data because Ai apps rely on data.
-
-Learn basics of Git and GitHub.
-
-Make projects and make a portfolio. Its ok if you clone somethings and reverse engineer it even if you don't
-y understand somethings. Start working on them by using Kaggle
